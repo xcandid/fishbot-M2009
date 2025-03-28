@@ -1,2 +1,4 @@
 # fishbot-M2009
-Fishbot for Metin2009; Generator de scoici/perle
+
+In lucru...
+Daca vrei sa sustii acest proiect trimite mail la xcandid.exe@gmail.com
