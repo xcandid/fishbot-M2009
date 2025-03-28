@@ -8,7 +8,7 @@
 
 - Actiune pescuit nedetectabila
 - Navigare pana la Pescar
-- Cumparare momeli
+- Aprovizionare cu momeli
 - Revenire la locul de pescuit
 - Continua procesul de pescuit
 
