@@ -7,9 +7,8 @@
 #### Capabilitati Fishbot_M2009:
 
 - Actiune pescuit nedetectabila
-- Navigare pana la Pescar
+- Deschidere meniu pescar
 - Aprovizionare cu momeli
-- Revenire la locul de pescuit
 - Continua procesul de pescuit
 
 
