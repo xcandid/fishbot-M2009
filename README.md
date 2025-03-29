@@ -2,7 +2,7 @@
 
 ### In lucru... <br>
 
-#### Acest fishbot va fi configurat strict pentru Metin2009 Premium.
+#### Fishbot va fi configurat strict pentru Metin2009 Premium.
 
 #### Capabilitati Fishbot_M2009:
 
