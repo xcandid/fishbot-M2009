@@ -13,4 +13,4 @@
 - Continua procesul de pescuit
 
 
-Daca doresti sa sustii acest proiect trimite mail la: xcandid.exe@gmail.com
+xcandid.exe@gmail.com
