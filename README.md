@@ -13,4 +13,4 @@
 - Continua procesul de pescuit
 
 
-Contact: xcandid.exe@gmail.com
+Pentru mai multe detalii: xcandid.exe@gmail.com
